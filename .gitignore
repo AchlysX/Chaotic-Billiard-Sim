@@ -1,0 +1,19 @@
+# Compiled binaries
+billiard
+simulation
+*.exe
+*.out
+*.o
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Simulation Output Data (generated each run)
+simulation_data.txt
+circular_pool.txt
+semi-circular_pool.txt
+
+# System files
+.DS_Store
+Thumbs.db

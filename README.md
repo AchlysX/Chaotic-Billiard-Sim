@@ -46,7 +46,7 @@ This simulator models the motion of a point particle in an idealized billiard ta
 └── .gitignore          # Build artifact exclusion
 ```
 
-## 🚀 How to Launch
+## How to Launch
 
 ### Prerequisites
 Ensure you have the following installed:
@@ -76,7 +76,7 @@ Run the engine directly in the terminal:
 # Follow the interactive prompts for Mode, X, Y, and Angle.
 ```
 
-## 👤 Authors
+## Authors
 
 **[Ahmed Benlafqih]**
 - **LinkedIn:** [Ahmed Benlafqih](www.linkedin.com/in/ahmed-benlafqih)
@@ -92,7 +92,7 @@ This project is open-source and available under the **MIT License**.
 ```text
 MIT License
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 Ahmed Benlafqih
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -76,15 +76,6 @@ Run the engine directly in the terminal:
 # Follow the interactive prompts for Mode, X, Y, and Angle.
 ```
 
-## Authors
-
-**[Ahmed Benlafqih]**
-- **LinkedIn:** [Ahmed Benlafqih](www.linkedin.com/in/ahmed-benlafqih)
-- **Email:** [ahmed.benlafqih@proton.email](ahmed.benlafqih@proton.email)
-**[Oumaima Berkani]**  co-author
-- **Linkedin:** [Oumaima Berkani](https://www.linkedin.com/in/emmab0/)
-
-
 ## License
 
 This project is open-source and available under the **MIT License**.
